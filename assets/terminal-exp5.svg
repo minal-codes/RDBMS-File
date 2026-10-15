@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+<rect width="1000" height="230" rx="14" fill="#0D1B2A"/><rect width="1000" height="38" rx="14" fill="#1B263B"/><rect y="24" width="1000" height="14" fill="#1B263B"/><circle cx="26" cy="19" r="6.5" fill="#FF5F56"/><circle cx="48" cy="19" r="6.5" fill="#FFBD2E"/><circle cx="70" cy="19" r="6.5" fill="#27C93F"/><text x="500.0" y="24" text-anchor="middle" font-family="Courier New, Consolas, Menlo, monospace" font-size="14" fill="#8D99AE">dbms-lab — exp_05</text>
+<text x="36" y="78" font-family="Courier New, Consolas, Menlo, monospace" font-size="17" fill="#FFB703" xml:space="preserve">mysql&gt; SOURCE views_recursive_cte.sql;</text>
+<rect x="36" y="98" width="150" height="28" rx="4" fill="#FFB703"/>
+<text x="111" y="118" text-anchor="middle" font-family="Courier New, Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#0D1B2A">EXPERIMENT 05</text>
+<text x="36" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="29" font-weight="700" fill="#FFFFFF">SQL Views, View Updatability and Recursive CTEs</text>
+<text x="36" y="206" font-family="Courier New, Consolas, Menlo, monospace" font-size="16" fill="#8D99AE" xml:space="preserve">-- Minal Sharma | UID 25LBCS3196<tspan fill="#FFB703">  _</tspan></text>
+</svg>
