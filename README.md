@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/code-25CSH--210-7B2CBF?style=plastic" alt="Subject code 25CSH-210"/>
 <img src="https://img.shields.io/badge/section-3-C9184A?style=plastic" alt="Section 3"/>
 <img src="https://img.shields.io/badge/group-G1%20(A)-0077B6?style=plastic" alt="Group G1 (A)"/>
-<img src="https://img.shields.io/badge/experiments-6-2D6A4F?style=plastic" alt="6 experiments"/>
+<img src="https://img.shields.io/badge/experiments-10-2D6A4F?style=plastic" alt="10 experiments"/>
 <img src="https://img.shields.io/badge/diagrams-mermaid-B26B00?style=plastic&logo=mermaid&logoColor=white" alt="Mermaid"/>
 </p>
 
@@ -122,6 +122,59 @@ All queries were executed on **MySQL 8.0**, and the outputs in each record are c
 [`Exp_6.md`](Exp_6.md) · [`procedures_triggers.sql`](procedures_triggers.sql)
 
 </td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+<img src="https://img.shields.io/badge/EXP-07-C9184A?style=plastic" alt="Experiment 07"/>
+
+**Functional Dependencies and Normalization**
+
+<sub>UNF to 1NF · 2NF · 3NF · BCNF · Lossless Join · Dependency Preservation</sub>
+
+[`Exp_7.md`](Exp_7.md) · [`normalization.sql`](normalization.sql)
+
+</td>
+
+<td valign="top" width="33%">
+
+<img src="https://img.shields.io/badge/EXP-08-7B2CBF?style=plastic" alt="Experiment 08"/>
+
+**Transactions and Isolation Levels**
+
+<sub>BEGIN · COMMIT · ROLLBACK · SAVEPOINT · Dirty Read · Non-Repeatable Read · Lost Update</sub>
+
+[`Exp_8.md`](Exp_8.md) · [`transactions_isolation.sql`](transactions_isolation.sql)
+
+</td>
+
+<td valign="top" width="33%">
+
+<img src="https://img.shields.io/badge/EXP-09-0077B6?style=plastic" alt="Experiment 09"/>
+
+**Indexing and Query Performance**
+
+<sub>Single Index · Composite Index · EXPLAIN · EXPLAIN ANALYZE · Benchmarking</sub>
+
+[`Exp_9.md`](Exp_9.md) · [`index_benchmark.sql`](index_benchmark.sql)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+<img src="https://img.shields.io/badge/EXP-10-2D6A4F?style=plastic" alt="Experiment 10"/>
+
+**Query Optimization**
+
+<sub>Slow Queries · Indexing · Query Rewriting · Execution Plans · Performance Comparison</sub>
+
+[`Exp_10.md`](Exp_10.md) · [`query_optimization.sql`](query_optimization.sql)
+
+</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
