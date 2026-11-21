@@ -184,7 +184,7 @@ All queries were executed on **MySQL 8.0**, and the outputs in each record are c
 
 ```
 DBMS-Lab/
-├── README.md                    -- index and student record (this page)
+├── README.md                    -- index and student record
 ├── assets/                      -- logos, terminal banners, dotted rules
 │
 ├── Exp_1.md                     -- ER diagram
@@ -193,12 +193,20 @@ DBMS-Lab/
 ├── Exp_4.md                     -- joins, subqueries, EXPLAIN
 ├── Exp_5.md                     -- views and recursive CTEs
 ├── Exp_6.md                     -- procedures and triggers
+├── Exp_7.md                     -- functional dependencies and normalization
+├── Exp_8.md                     -- transactions and isolation levels
+├── Exp_9.md                     -- indexing and query performance
+├── Exp_10.md                    -- query optimization
 │
-├── ecommerce_schema.sql         -- Exp 2 : creates ecommerce_db
-├── company_queries.sql          -- Exp 3 : creates company_db (used by Exp 4-6)
+├── ecommerce_schema.sql         -- Exp 2
+├── company_queries.sql          -- Exp 3 (used by Exp 4-6)
 ├── joins_subqueries.sql         -- Exp 4
 ├── views_recursive_cte.sql      -- Exp 5
-└── procedures_triggers.sql      -- Exp 6
+├── procedures_triggers.sql      -- Exp 6
+├── normalization.sql            -- Exp 7
+├── transactions_isolation.sql   -- Exp 8
+├── index_benchmark.sql          -- Exp 9
+└── query_optimization.sql       -- Exp 10
 ```
 
 <img src="assets/dots-4.svg" width="100%" height="10" alt=""/>
